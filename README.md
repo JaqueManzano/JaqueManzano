@@ -27,9 +27,6 @@ Formada em Análise e Desenvolvimento de Sistemas
   <img align="center" alt="csharp" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="center" alt="csharp" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   <img align="center" alt="csharp" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
-  <img align="center" alt="csharp" height="30" widht="40" src="" />
-  <img align="center" alt="csharp" height="30" widht="40" src="" />
-  <img align="center" alt="csharp" height="30" widht="40" src="" />
 
 </div>
 
