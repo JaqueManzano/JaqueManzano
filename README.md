@@ -82,8 +82,6 @@ Acredito que a tecnologia é uma ferramenta poderosa para **gerar mudanças reai
 
 ## 📈 Estatísticas GitHub
 
-![Jaqueline's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaqueManzano&show_icons=true&theme=radical)
-
 <div>
    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jaquemanzano&show_icons=true&theme=tokyonight"/>
  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquemanzano&layout=compact&theme=tokyonight"/>
